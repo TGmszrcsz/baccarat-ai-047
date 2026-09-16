@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：效果验证
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 046 篇 - 百家乐Ai预测分析工具：多次尝试后挑最好结果有什么偏差](https://github.com/TGmszrcsz/baccarat-ai-046) ｜ [下一篇：第 048 篇 - 百家乐Ai预测分析工具：版本对比要先统一测试样本](https://github.com/TGmszrcsz/baccarat-ai-048)
+
+<!-- article-chain:end -->
+
 材料只展示输出正确的几张图片。本篇围绕“成功截图合集为什么不能替代完整测试”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
